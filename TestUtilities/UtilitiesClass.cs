@@ -6,5 +6,6 @@ namespace TestUtilities
     {
     class UtilitiesClass
         {
+
         }
     }
